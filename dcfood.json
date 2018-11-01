@@ -3,15 +3,22 @@
 	"id" : "dcfood",
 	"name" : "DC Chinese Food Map",
 	"description" : "This Json file is for good Chinese food in DC, updating is welcome. More info visit https://blog.jing.do/6436/",
-	"Link" : "https://blog.jing.do/6436/",
+	"Link" : "https://blog.jing.do/6436/"
   },
-  "data" : {
-  	"Hokkaido Seafood Buffet" : {
+  "data" : [
+  	{
   		"name" : "Hokkaido Seafood Buffet",
   		"address" : "5900 Leesburg Pike, Falls Church, VA 22041",
   		"description" : "海鲜自助，有sushi、海鲜、中餐等，味道还不错，中午去的话价格非常便宜。",
   		"longitude" : "38.852955",
-  		"latitude" : "-77.055439",
+  		"latitude" : "-77.055439"
   	},
-  } 
+    {
+      "name" : "Hunan Gate",
+      "address" : "4233 Fairfax Dr, Arlington, VA 22203",
+      "description" : "很不错的东北菜，别问我为何叫hunan gate。",
+      "longitude" : "38.8823703",
+      "latitude" : "-77.1139115"
+    }
+  ]
 }
