@@ -1,0 +1,17 @@
+{
+  "meta" : {
+	"id" : "dcfood",
+	"name" : "DC Chinese Food Map",
+	"description" : "This Json file is for good Chinese food in DC, updating is welcome. More info visit https://blog.jing.do/6436/",
+	"Link" : "https://blog.jing.do/6436/",
+  },
+  "data" : {
+  	"Hokkaido Seafood Buffet" : {
+  		"name" : "Hokkaido Seafood Buffet",
+  		"address" : "5900 Leesburg Pike, Falls Church, VA 22041",
+  		"description" : "海鲜自助，有sushi、海鲜、中餐等，味道还不错，中午去的话价格非常便宜。",
+  		"longitude" : "38.852955",
+  		"latitude" : "-77.055439",
+  	},
+  } 
+}
