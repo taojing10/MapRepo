@@ -1,17 +1,24 @@
 {
   "meta" : {
-	"id" : "dcfood",
-	"name" : "DC Chinese Food Map",
-	"description" : "This Json file is for good Chinese food in DC, updating is welcome. More info visit https://blog.jing.do/6436/",
+	"id" : "vaasianfoodmap",
+	"name" : "VA Asian Food Map",
+	"description" : "This Json file is for good Asian food in north virginia, updating is welcome. Map view and more info please visit https://blog.jing.do/6436/",
 	"Link" : "https://blog.jing.do/6436/"
   },
   "data" : [
+    {
+      "name" : "Kabob Place",
+      "address" : "2315 S Eads St, Arlington, VA 22202",
+      "description" : "在crystal city的中东kabob，至今未发现比他好吃的羊肉锅，学生时代经常半夜做完项目和同学去撸一顿，24小时营业。",
+      "longitude" : "38.852955",
+      "latitude" : "-77.055439"
+    },
   	{
   		"name" : "Hokkaido Seafood Buffet",
   		"address" : "5900 Leesburg Pike, Falls Church, VA 22041",
   		"description" : "海鲜自助，有sushi、海鲜、中餐等，味道还不错，中午去的话价格非常便宜。",
-  		"longitude" : "38.852955",
-  		"latitude" : "-77.055439"
+  		"longitude" : "38.85445",
+  		"latitude" : "-77.13763"
   	},
     {
       "name" : "Hunan Gate",
@@ -19,6 +26,153 @@
       "description" : "很不错的东北菜，别问我为何叫hunan gate。",
       "longitude" : "38.8823703",
       "latitude" : "-77.1139115"
+    },
+    {
+      "name" : "Hong Kong Pearl Seafood Restaurant",
+      "address" : "6286 Arlington Blvd, Falls Church, VA 22044",
+      "description" : "应该是吃过最好的香港早餐了，人比较多，边上就是好运来超市，适合逛完超市之后去。",
+      "longitude" : "38.8723837",
+      "latitude" : "-77.15373"
+    },   
+    {
+      "name" : "Hong Kong Palace",
+      "address" : "6387 Seven Corners Center, Falls Church, VA 22044",
+      "description" : "非常地道的四川小炒店，味道非常好，就是店小了点，经常要排队。",
+      "longitude" : "38.86707",
+      "latitude" : "-77.1529158"
+    }, 
+    {
+      "name" : "Little Dipper Hot Pot House",
+      "address" : "3000 Annandale Rd #102, Falls Church, VA 22042",
+      "description" : "台湾系小火锅，非常清淡，味道很特别，感觉很健康。",
+      "longitude" : "38.8655295",
+      "latitude" : "-77.1734809"
+    }, 
+    {
+      "name" : "Honey Pig BBQ",
+      "address" : "7220-C Columbia Pike, Annandale, VA 22003",
+      "description" : "韩国烤肉，24小时营业，基本上没有不排队的时候。",
+      "longitude" : "38.8377264",
+      "latitude" : "-77.2022885"
+    }, 
+    {
+      "name" : "Lighthouse Tofu & BBQ",
+      "address" : "4121 Chatelain Rd, Annandale, VA 22003",
+      "description" : "应该是最好吃的豆腐煲了，价格非常便宜。",
+      "longitude" : "38.8339495",
+      "latitude" : "-77.1903645"
+    }, 
+    {
+      "name" : "Yechon Korean Restaurant",
+      "address" : "4121 Hummer Rd, Annandale, VA 22003",
+      "description" : "24小时的韩国店，属于综合类型的，喜欢吃他们加的烤肉和排骨汤。",
+      "longitude" : "38.835936",
+      "latitude" : "-77.2148262"
+    }, 
+    {
+      "name" : "Lotus Garden",
+      "address" : "224 Maple Ave W, Vienna, VA 22180",
+      "description" : "兰州拉面和烤鸭非常好吃，其他菜也非常不错！",
+      "longitude" : "38.8987311",
+      "latitude" : "-77.2702068"
+    }, 
+    {
+      "name" : "A&J",
+      "address" : "4316 Markham St, Annandale, VA 22003",
+      "description" : "算是一家中国小吃店，他们家的红豆粥和小菜不错。",
+      "longitude" : "38.8301484",
+      "latitude" : "-77.2030191"
+    }, 
+    {
+      "name" : "Hot Spot",
+      "address" : "3232 Old Pickett Rd, Fairfax, VA 22031",
+      "description" : "韩国小火锅自助，应该是这周围最好吃的火锅了，就是有些贵。",
+      "longitude" : "38.8878054",
+      "latitude" : "-77.2295051"
+    }, 
+    {
+      "name" : "Panda Gourmet",
+      "address" : "2700 New York Ave NE, Washington, DC 20002",
+      "description" : "川陕名吃，味道很正宗，服务态度不怎么好。",
+      "longitude" : "38.9179902",
+      "latitude" : "-76.9729989"
+    }, 
+    {
+      "name" : "Lakeside Asia Cafe",
+      "address" : "11130 South Lakes Dr, Reston, VA 20191",
+      "description" : "强烈推荐的一家中餐馆，味道非常好，百吃不厌，推荐豆花鱼、狮子头。",
+      "longitude" : "38.9392451",
+      "latitude" : "-77.3326494"
+    }, 
+    {
+      "name" : "To Sok Jip",
+      "address" : "7211 Columbia Pike, Annandale, VA 22003",
+      "description" : "俗称部队锅（因为我只去吃部队锅），店非常小，常年排队，但是部队锅真的很有特色，好像老板会说中文。",
+      "longitude" : "38.8313944",
+      "latitude" : "-77.1933469"
+    }, 
+    {
+      "name" : "Nanjing Bistro",
+      "address" : "11213 Lee Hwy, Fairfax, VA 22030",
+      "description" : "GMU专用食堂，作为江浙人觉得口味非常正确。",
+      "longitude" : "38.8477839",
+      "latitude" : "-77.35306"
+    }, 
+    {
+      "name" : "Peter Chang",
+      "address" : "2503-E N Harrison St, Arlington, VA 22207",
+      "description" : "川菜，传说中使馆的大厨（未认证），味道不错，服务很好。",
+      "longitude" : "38.8977364",
+      "latitude" : "-77.1411756"
+    }, 
+    {
+      "name" : "Tempt Asian Cafe",
+      "address" : "6259 Little River Turnpike, Alexandria, VA 22312",
+      "description" : "老板娘非常和蔼，菜也非常棒，而且还有烤鱼！",
+      "longitude" : "38.8174156",
+      "latitude" : "-77.1448977"
+    }, 
+    {
+      "name" : "Pho 75",
+      "address" : "1721 Wilson Blvd, Arlington, VA 22209",
+      "description" : "传说中的最好吃的pho，吃起来确实没有其他pho那种味精感，可以顺道吃下。",
+      "longitude" : "38.8936072",
+      "latitude" : "-77.079688"
+    }, 
+    {
+      "name" : "Little Sheep Mongolian Hot Pot",
+      "address" : "6799 Wilson Blvd #10, Falls Church, VA 22044",
+      "description" : "小肥羊火锅，不介绍了，适合聚餐，个人觉得超市的小肥羊包在家味道更好些。",
+      "longitude" : "38.8730046",
+      "latitude" : "-77.1562554"
+    }, 
+    {
+      "name" : "Mala Tang",
+      "address" : "3434 Washington Blvd, Arlington, VA 22201",
+      "description" : "干锅还不错，价格略高，可以去吃一次体验下。",
+      "longitude" : "38.8572923",
+      "latitude" : "-77.1117652"
+    },
+    {
+      "name" : "88 China",
+      "address" : "13635 Lee Jackson Memorial Hwy, Chantilly, VA 20151",
+      "description" : "不错的中餐馆",
+      "longitude" : "38.8877282",
+      "latitude" : "-77.42205"
+    },
+    {
+      "name" : "IncrediBowl",
+      "address" : "14005 Lee Jackson Memorial Hwy, Chantilly, VA 20151",
+      "description" : "传说中的麻辣小胖",
+      "longitude" : "38.894016",
+      "latitude" : "-77.4344672"
+    },
+    {
+      "name" : "Golden King",
+      "address" : "21800 Towncenter Plaza, Sterling, VA 20164",
+      "description" : "很不错的港式早茶店",
+      "longitude" : "39.0064325",
+      "latitude" : "-77.3779751"
     }
   ]
 }
