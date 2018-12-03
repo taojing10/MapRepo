@@ -1,5 +1,5 @@
 # maprepo
-This Json file is for good Asian food in north virginia, updating is welcome. Map view and more info please visit https://blog.jing.do/6436/.
+This Repo is for good taste Asian food in north virginia, update is welcome. Map view and more info please visit https://blog.jing.do/6436/.
 
 If you have any good place, please send a merge request. formart as:
 
