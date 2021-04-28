@@ -13,13 +13,6 @@
       "longitude" : "38.852955",
       "latitude" : "-77.055439"
     },
-  	{
-  		"name" : "Hokkaido Seafood Buffet",
-  		"address" : "5900 Leesburg Pike, Falls Church, VA 22041",
-  		"description" : "海鲜自助，有sushi、海鲜、中餐等，味道还不错，中午去的话价格非常便宜。",
-  		"longitude" : "38.85445",
-  		"latitude" : "-77.13763"
-  	},
     {
       "name" : "Hunan Gate",
       "address" : "4233 Fairfax Dr, Arlington, VA 22203",
@@ -180,6 +173,13 @@
       "description" : "超级好吃超级正宗的日本烤肉 价格略高 人均$50+",
       "longitude" : "38.887126",
       "latitude" : "-77.0985017"
+    },
+    {
+      "name" : "Far East Restaurant",
+      "address" : "5055 Nicholson Ln, Rockville, MD 20852",
+      "description" : "实惠正宗的港式早茶店，有点心/中餐",
+      "longitude" : "39.04822465234262",
+      "latitude" : "-77.10284076927904"   
     }
   ]
 }
